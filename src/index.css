@@ -1,0 +1,9 @@
+.list-group-item {
+  cursor: grab;
+}
+.btn:disabled {
+  cursor: not-allowed !important; /* 显示一个不允许的光标 */
+}
+.bg-light {
+  background-color: #f8f9fa !important;
+}
