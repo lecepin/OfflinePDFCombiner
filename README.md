@@ -1,28 +1,7 @@
-## Usage
+### Offline-PDF-Combiner
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+Merge PDF files only in the browser to avoid the hidden danger of files being stored by third-party websites.
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+https://lecepin.github.io/OfflinePDFCombiner/
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm run dev`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+![](https://github.com/lecepin/OfflinePDFCombiner/assets/11046969/7306f575-c073-4a1a-8b65-47e15909019c)
